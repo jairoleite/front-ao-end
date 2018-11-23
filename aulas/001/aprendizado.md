@@ -24,4 +24,4 @@ Agora o arquivo é enviado para o HEAD, mas ainda não para o repositório remot
 
 #### Referência
 > http://rogerdudler.github.io/git-guide/index.pt_BR.html
-
+> https://help.github.com/articles/changing-a-commit-message/
