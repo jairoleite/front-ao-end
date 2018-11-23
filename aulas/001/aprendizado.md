@@ -19,6 +19,8 @@ git init
 `git commit -m` "comentários das alterações"
 Agora o arquivo é enviado para o HEAD, mas ainda não para o repositório remoto.
 
+* Comando para mudar mensagem de commit git:
+> git commit --amend -m "Nova mensagem"
 
 #### Referência
 > http://rogerdudler.github.io/git-guide/index.pt_BR.html
