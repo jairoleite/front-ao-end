@@ -10,7 +10,12 @@ h1 {
   font-size: 40px;
 }
 
+input {
+  font-size: 20px;
+}
+
 a {
   color: #fff;
   text-decoration: none;
+  font-size: 21px;
 }
