@@ -2,24 +2,75 @@ body {
   font-family: "Acme", sans-serif;
 }
 
+/* pesquisa feita na internet  placeholder*/
+::placeholder {
+  color: rgba(255, 255, 255, 0.883);
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: rgba(255, 255, 255, 0.883);
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: rgba(255, 255, 255, 0.883);
+}
+/*fim do código pesquisado*/
+
 header {
   background-color: #e24647;
+  padding: 30px;
+  display: inline-flex;
+  width: 100%;
 }
 
 h1 {
+  width: 120px;
+  font-size: 40px;
   color: #fff;
 }
 
-h1 {
-  font-size: 40px;
+nav {
+  display: inline;
+  margin-left: 50px;
 }
 
 input {
-  font-size: 20px;
+  width: 100%;
+  margin-top: 5px;
+  font-size: 16px;
+  background: transparent;
+  outline: none;
+  border: 0;
+  color: #fff;
 }
 
 a {
   color: #fff;
   text-decoration: none;
   font-size: 21px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.col-logo {
+  width: 10%;
+}
+
+.col-pesquisa {
+  width: 45%;
+  vertical-align: middle;
+}
+
+.pesquisa {
+  width: 50%;
+  float: right;
+  margin-right: 35px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.col-navegacao {
+  width: 45%;
 }
