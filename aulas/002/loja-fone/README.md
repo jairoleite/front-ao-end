@@ -39,4 +39,5 @@ B = Blue;
 ```
 
 > <span style="color:red;">Importante \*</span>
+
 > As cores estão relacionadas com a ausência de luz, entendendo-se que o valor **`0`** mais claro e o valor **`F`** mais escuro ...
