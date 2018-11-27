@@ -1,0 +1,38 @@
+body {
+  font-family: "Acme", sans-serif;
+}
+
+header {
+  background-color: #e24647;
+  color: #fff;
+  overflow: hidden;
+  margin: 25vh 115px;
+  padding: 55px 60px 95px;
+}
+
+h1 {
+  font-size: 40px;
+  float: left;
+}
+
+nav {
+  font-size: 21px;
+  float: right;
+}
+
+a {
+  text-decoration: none;
+  margin: 20px 20px;
+  color: inherit;
+}
+
+button {
+  color: #fff;
+  width: 200px;
+  height: 60px;
+  background-color: #252c41;
+  border: none;
+  padding: 18px 60px;
+  margin-right: 115px;
+  float: right;
+}
