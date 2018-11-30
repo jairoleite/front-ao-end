@@ -1,0 +1,9 @@
+.button-store {
+  font-family: "Acme", sans-serif;
+  display: inline-block;
+  color: #fff;
+  height: 60px;
+  background-color: #252c41;
+  border: none;
+  padding: 18px 60px;
+}

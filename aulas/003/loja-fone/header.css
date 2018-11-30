@@ -6,8 +6,12 @@ header {
   background-color: #e24647;
   color: #fff;
   overflow: hidden;
-  margin: 25vh 115px;
   padding: 55px 60px 95px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
 }
 
 h1 {
