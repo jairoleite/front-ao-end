@@ -1,0 +1,21 @@
+.content-image {
+  overflow: hidden;
+  margin-top: 50px;
+  width: 50%;
+  float: left;
+}
+
+.image {
+  background-color: #ffffff;
+  text-align: center;
+  margin-right: 90px;
+  border-radius: 0 108px 108px 0;
+}
+
+.side-image {
+  background-color: #ffffff;
+  position: absolute;
+  left: -52px;
+  height: 405px;
+  width: 200px;
+}

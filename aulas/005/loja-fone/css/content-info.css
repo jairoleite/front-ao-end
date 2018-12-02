@@ -1,0 +1,56 @@
+.content-info {
+  margin-top: 50px;
+  width: 50%;
+  float: right;
+  color: #ffffff;
+}
+
+.info {
+  display: grid;
+  text-align: left;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.star {
+  display: inline-flex;
+  margin: 25px 0 0 -9px;
+}
+
+.star-item {
+  margin: 0 9px 0 9px;
+}
+.-first {
+  margin-top: 26px;
+}
+
+.-freight {
+  margin-top: 28px;
+}
+
+.-price {
+  margin-top: 26px;
+}
+
+.last-freight {
+  margin-left: 73px;
+}
+
+.last-price {
+  margin-left: 68px;
+}
+
+.description-text {
+  margin-top: 47px;
+  line-height: 22px;
+}
+
+.description-more {
+  margin: 20px 0 25px -21px;
+}
+
+.content-buttons {
+  display: inline-flex;
+}
